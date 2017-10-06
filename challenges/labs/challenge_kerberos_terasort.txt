@@ -1,0 +1,11 @@
+***  KERBEROS  TERASORT
+
+[root@ip-172-30-2-47 hadoop-0.20-mapreduce]# time sudo -u kudaw hadoop jar ./hadoop-examples.jar terasort /user/saturn/test3 /user/saturn/test4_tsort
+17/10/03 17:15:16 INFO terasort.TeraSort: starting
+17/10/03 17:15:17 INFO input.FileInputFormat: Total input paths to process : 2
+Spent 125ms computing base-splits.
+Spent 2ms computing TeraScheduler splits.
+Computing input splits took 129ms
+Sampling 8 splits of 8
+Making 8 from 100000 sampled records
+Computing parititions took 490ms
