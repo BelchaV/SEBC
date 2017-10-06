@@ -1,0 +1,4 @@
+*** AZURE (para ver)
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-custom-images
